@@ -1,0 +1,137 @@
+[
+
+    
+    {
+        "name": "CSS Tricks homepage.",
+        "description": "CSS related guides, reviews, news etc.",
+        "href": "https://css-tricks.com"
+    },
+
+    {
+        "name": "CSS Properties",
+        "description": "All CSS properties.",
+        "href": "https://css-tricks.com/almanac/properties"
+    },
+
+	{
+		"name": "Palleton",
+		"description": "Design and choosing color pallets.",
+		"href": "https://paletton.com"
+	},
+
+	{
+		"name": "Specificity Calculator.",
+		"description": "Calculate css rules specificity.",
+		"href": "https://specificity.keegan.st"
+	},
+
+	{
+		"name": "CSS and JS minifier.",
+		"description": "Compresses the CSS or JS file in one line without spaces to turn it lighter and faster to load",
+		"href": "https://www.minifier.org"
+	},
+
+	{
+		"name": "CSS and JS unminifier.",
+		"description": "Bassically a pretty print of code, so it can be read more easily. (Supports JavaScript, CSS, HTML, XML and JSON )",
+		"href": "https://unminify.com"
+	},
+
+	
+    {
+        "name": "Flexbox Cheatlist.",
+        "description": "A flexbox cheatlist with all the usefull and must-known properties.",
+        "href": "https://darekkay.com/dev/flexbox-cheatsheet.html"
+    },
+    {
+        "name": "Flexbox Froggy.",
+        "description": "A flexbox game to practise its properties.",
+        "href": "flexboxfroggy.com"
+    },
+
+	{
+		"name": "CSS Browser Support Reference.",
+		"description": "A list of all the css properties and selectors with their compatibillity with each one of the browsers.",
+		"href": "https://www.w3schools.com/cssref/css3_browsersupport.asp"
+	},
+	{
+		"name": "Can I use",
+		"description": "Support tables for HTML5, CSS3, etc.",
+		"href": "https://caniuse.com"
+	},
+	{
+		"name": "Thoughtbot, CSS animations.",
+		"description": "CSS Transitions and Transforms for Beginners.",
+		"href": "https://thoughtbot.com/blog/transitions-and-transforms"
+	},
+	
+    {
+        "name": "Bootstrap introduction.",
+        "description": "Bootstrap first steps: downloading, setup and starting template.",
+        "href": "https://getbootstrap.com/docs/5.0/getting-started/introduction/"
+    },
+    {
+        "name": "Bootstrap components.",
+        "description": "A bunch of CSS components and utilities made with bootstrap with its code avaliable.",
+        "href": "https://getbootstrap.com/docs/5.0/components/accordion/"
+    },
+    {
+        "name": "Bootstrap cheatlist.",
+        "description": "A bootstrap cheatlist to consult keywords, classes and utilities.",
+        "href": "https://hackerthemes.com/bootstrap-cheatsheet/"
+    },
+	{
+		"name": "Marketing Platform",
+		"description": "Explore Forever Free Options. Mailchimp Makes It Easy to Create Email Campaigns, Landing Pages, and More. Predicted Demographics. No Coding Required. Bounce Rate Management.",
+		"href": "https://mailchimp.com/"
+	},
+	{
+		"name": "Animate.io",
+		"description": "Animate.css is a library of ready-to-use, cross-browser animations for you to use in your projects.",
+		"href": "https://animate.io/"
+	},
+	{
+		"name": "Creative Tim",
+		"description": "UI Kits, Templates and Dashboards built on top of Bootstrap, Vue.js, React, Angular, Node.js and Laravel",
+		"href": "https://www.creative-tim.com/"
+	},
+	{
+		"name": "Mashup Template",
+		"description": "Beautiful free HTML5/CSS3 templates that can be used for any commercial projects.",
+		"href": "http://www.mashup-template.com/"
+	},
+	
+    {
+        "name": "css tricks - grid",
+        "description": "a complete guide to grid",
+        "href": "https://css-tricks.com/snippets/css/complete-guide-grid/"
+    },
+    {
+        "name": "Grid Garden",
+        "description": "A game for learning CSS Grid Layout",
+        "href": "http://cssgridgarden.com/#es"
+    },
+	{
+		"name": "Undraw",
+		"description": "The design project with open-source illustrations for any idea you can imagine and create.",
+		"href": "https://undraw.co/"
+	},
+	{
+		"name": "You Might Not Need JQuery",
+		"description": "Examples of how to do common event, element, ajax and utility operations with plain javascript.",
+		"href": "http://youmightnotneedjquery.com/"
+	},
+	{
+		"name": "JS Comparison Table",
+		"description": "When using two equals signs for JavaScript equality testing, some funky conversions take place.",
+
+
+		"href": "https://dorey.github.io/JavaScript-Equality-Table/"
+	},
+	{
+		"name": "Javascript.info",
+		"description": "The Modern JavaScript Tutorial",
+		"href": "https://javascript.info/"
+	}
+
+]
