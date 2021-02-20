@@ -1,5 +1,5 @@
 import Article from './Article.js';
-import '../List.css';
+import '../css/List.css';
 import resources from '../resources-list.json';
 
 const List =() => {

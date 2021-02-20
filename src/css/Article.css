@@ -1,0 +1,9 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.article {
+    background: rgb(156,181,255);
+    background: linear-gradient(90deg, rgba(156,181,255,1) 13%, rgba(28,158,255,1) 83%);
+}

@@ -1,0 +1,25 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#main-nav {
+	list-style-type: none;
+	display: flex;
+	align-items: center;
+	height: 100%;
+	margin:0;
+}
+#main-nav li {
+	padding: 1rem;
+}
+#main-nav li:hover {
+	border-bottom: 1px solid white;
+}
+#main-nav a:last-child {
+	margin-left: auto;
+}
+#main-nav a {
+	color: #ffffff;
+	text-decoration: none;
+}

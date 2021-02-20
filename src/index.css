@@ -2,3 +2,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/*.blue{*/
+    /*background: rgb(156,181,255);*/
+    /*background: linear-gradient(90deg, rgba(156,181,255,1) 13%, rgba(28,158,255,1) 83%);*/
+/*}*/
+
+.blue{
+    background: #7abcff; /* Old browsers */
+    background: linear-gradient(top, #7abcff 0%, #60abf8 44%, #4096ee 100%);
+    background: gradient(linear, to left top, to left bottom, color-stop(0%,#7abcff), color-stop(44%,#60abf8), color-stop(100%,#4096ee)); 
+}
