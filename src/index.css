@@ -9,7 +9,6 @@
 /*}*/
 
 .blue{
-    background: #7abcff; /* Old browsers */
-    background: linear-gradient(top, #7abcff 0%, #60abf8 44%, #4096ee 100%);
-    background: gradient(linear, to left top, to left bottom, color-stop(0%,#7abcff), color-stop(44%,#60abf8), color-stop(100%,#4096ee)); 
+background: rgb(138,166,249);
+background: linear-gradient(101deg, rgba(138,166,249,1) 13%, rgba(28,158,255,1) 83%);
 }

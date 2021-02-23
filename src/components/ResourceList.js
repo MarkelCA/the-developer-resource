@@ -4,7 +4,7 @@ import resources from '../resources-list.json';
 
 const List =() => {
   return (
-      <div className="List tc">
+      <div className="List tc bg-blue-500 p-5">
           {resources.map(printCard)}
     </div>
   );
