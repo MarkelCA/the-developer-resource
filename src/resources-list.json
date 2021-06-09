@@ -129,9 +129,14 @@
 		"href": "https://dorey.github.io/JavaScript-Equality-Table/"
 	},
 	{
-		"name": "Javascript.info",
-		"description": "The Modern JavaScript Tutorial",
+		"name": "javascript.info",
+		"description": "the modern javascript tutorial",
 		"href": "https://javascript.info/"
+	},
+	{
+		"name": "JSON Placeholder",
+		"description": "Fee fake API for testing and prototyping",
+		"href": "https://jsonplaceholder.typicode.com/"
 	}
 
 ]
